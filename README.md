@@ -1,4 +1,4 @@
-# ANDAS-CONTD-SCIPY-Assignment_5.11439
+# PANDAS-CONTD-SCIPY-Assignment_5.11439
 Assignment on PANDAS CONTINUED &amp; SCIPY Session
 
 Files details are mentioned as below:
